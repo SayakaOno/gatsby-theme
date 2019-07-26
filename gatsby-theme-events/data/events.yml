@@ -1,0 +1,11 @@
+- name: React Rally
+  location: Salt Lake City, UT
+  start_date: 2019-08-22
+  end_date: 2019-08-23
+  url: https://www.reactrally.com/
+
+- name: DinosaurJS
+  location: Vancouver, BC
+  start_date: 2019-09-01
+  end_date: 2019-09-30
+  url: https://www.dinosaur.com/
