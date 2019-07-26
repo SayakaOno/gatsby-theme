@@ -10,7 +10,7 @@ exports.onPreBootstrap = ({ reporter }) => {
   }
 };
 
-// 2. define the event tyepe
+// 2. define the event type
 exports.sourceNodes = ({ actions }) => {
   actions.createTypes(`
     type Event implements Node @dontInfer {
